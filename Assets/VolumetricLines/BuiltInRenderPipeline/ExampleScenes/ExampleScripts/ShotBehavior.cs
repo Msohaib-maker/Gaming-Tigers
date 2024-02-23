@@ -40,6 +40,8 @@ public class ShotBehavior : MonoBehaviour
         {
             //Debug.Log("defe");
             // Do something when the shot hits the target collider (e.g., trigger an explosion)
+            EnemyCreate.instance.count_enemy -= 1;
+            Destroy(other.gameObject);
             explode();
         }
     }

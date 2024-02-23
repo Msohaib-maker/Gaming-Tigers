@@ -31,8 +31,8 @@ Transform:
   m_GameObject: {fileID: 136330}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 23.831}
-  m_LocalScale: {x: 0.00096751074, y: 0.14506862, z: 0.046753667}
+  m_LocalPosition: {x: 0, y: 0, z: 22.334}
+  m_LocalScale: {x: 0.00023810547, y: 0.042085167, z: 0.1066251}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_target: {x: 0, y: 0, z: 0}
   collisionExplosion: {fileID: 417761080263594737, guid: 7800b8f6b712bfe49bd663eeb3ebe1e4, type: 3}
-  speed: 50
+  speed: 30
 --- !u!108 &10825254
 Light:
   m_ObjectHideFlags: 0
@@ -134,7 +134,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 0, g: 1, b: 0.88578606, a: 1}
   m_Intensity: 2
-  m_Range: 10.9
+  m_Range: 8.65
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
