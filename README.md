@@ -13,27 +13,28 @@ With its captivating visuals, accessible gameplay, and nostalgic charm, Neon War
 
 
 Assets used and their links
-Simple ButtonsSimple
-Grid Shader
-Scalable Grid Prototype materials
+
+- Simple ButtonsSimple
+- Grid Shader
+- Scalable Grid Prototype materials
 
 
 Assets
-3d models Building Apartment 
-FREE Skyboxes - Sci-Fi & Fantasy 
-LOWPOLY-Spaceship 
-Materials
-Prefab
-Scalable Grid Prototype Materials
-Scenes
-Scripts
-Shaders
-Simple Buttons
-Simple FX Kit
-SimpleGridShader
-Sounds sprites
-TextMesh Pro textures
-VolumetricLines
+- 3d models Building Apartment
+- FREE Skyboxes - Sci-Fi & Fantasy 
+- LOWPOLY-Spaceship 
+- Materials
+- Prefab
+- Scalable Grid Prototype Materials
+- Scenes
+- Scripts
+- Shaders
+- Simple Buttons
+- Simple FX Kit
+- SimpleGridShader
+- Sounds sprites
+- TextMesh Pro textures
+- VolumetricLines
 
 Video link to drive
 
